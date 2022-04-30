@@ -8,7 +8,7 @@ import pystache
 import requests
 import time
 import netrc
-from pygithub3 import Github
+from github import Github
 
 
 repos_in = 'repos.json'
