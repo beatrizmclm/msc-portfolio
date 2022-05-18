@@ -1,5 +1,12 @@
 {
   "repos": {
-    "BGA":["Bioinformatics Genome Analisis"]
+    "RNASeq_Data_Access_in_R":["Bioinformatics & Genome Analisis"],
+    "NGS_QC_analysis_and_alignment_in_R":["Bioinformatics & Genome Analisis"],
+    "Variant_Call_Analysis":["Bioinformatics & Genome Analisis"],
+    "RNA-Seq_Expression_Analysis":["Bioinformatics & Genome Analisis"],
+    "Class_Prediction_Analysis_Gene_Expression_Data_R":["Bioinformatics & Genome Analisis"],
+    "eQTL_Analysis":["Bioinformatics & Genome Analisis"],
+    "ChIP-seq_Analysis":["Bioinformatics & Genome Analisis"],
+    "DNA_Methylation_Analysis":["Bioinformatics & Genome Analisis"]
   }
 }
