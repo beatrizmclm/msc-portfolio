@@ -1,12 +1,14 @@
 {
   "repos": {
-    "RNASeq_Data_Access_in_R":["Bioinformatics & Genome Analysis"],
-    "NGS_QC_analysis_and_alignment_in_R":["Bioinformatics & Genome Analysis"],
-    "Variant_Call_Analysis":["Bioinformatics & Genome Analysis"],
-    "RNA-Seq_Expression_Analysis":["Bioinformatics & Genome Analysis"],
-    "Class_Prediction_Analysis_Gene_Expression_Data_R":["Bioinformatics & Genome Analysis"],
-    "eQTL_Analysis":["Bioinformatics & Genome Analysis"],
-    "ChIP-seq_Analysis":["Bioinformatics & Genome Analysis"],
-    "DNA_Methylation_Analysis":["Bioinformatics & Genome Analysis"]
+    "1.RNASeq_Data_Access_in_R":["Bioinformatics & Genome Analysis"],
+    "2.NGS_QC_analysis_and_alignment_in_R":["Bioinformatics & Genome Analysis"],
+    "3.Variant_Call_Analysis":["Bioinformatics & Genome Analysis"],
+    "4.RNA-Seq_Expression_Analysis":["Bioinformatics & Genome Analysis"],
+    "5.Class_Prediction_Analysis_Gene_Expression_Data_R":["Bioinformatics & Genome Analysis"],
+    "6.RNA-seq_Analysis_DGE-CGE":["Bioinformatics & Genome Analysis"],
+    "7.Microarray_Analysis":["Bioinformatics & Genome Analysis"],
+    "8.eQTL_Analysis":["Bioinformatics & Genome Analysis"],
+    "9.ChIP-seq_Analysis":["Bioinformatics & Genome Analysis"],
+    "10.DNA_Methylation_Analysis":["Bioinformatics & Genome Analysis"]
   }
 }
