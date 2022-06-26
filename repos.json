@@ -27,7 +27,22 @@
     "5.Alleles_Recombination_and_Linkage":[" - Introduction to Genetics and Genomics"],
     "6.Polymorphisms-RLFPs-SNPs_and_Pathogenicity":[" - Introduction to Genetics and Genomics"],
     "7.Family_History":[" - Introduction to Genetics and Genomics"],
-    "8.Ethical_Questions":[" - Introduction to Genetics and Genomics"]
-    
+    "8.Ethical_Questions":[" - Introduction to Genetics and Genomics"],
+    "1.Object_Oriented_Programming":["Data Science for Bioinformatics"],
+    "2.Biopython_and_Python_Markdown":["Data Science for Bioinformatics"],
+    "3.R_markdown":["Data Science for Bioinformatics"],
+    "4.Biopython_Sequence_Objects_Part_1":["Data Science for Bioinformatics"],
+    "5.Version_Control":["Data Science for Bioinformatics"],
+    "6.BioPython_Sequence_Objects_Part_2":["Data Science for Bioinformatics"],
+    "7.Biopython_Sequence_Annotation":["Data Science for Bioinformatics"],
+    "8.Biopython_Sequence_Input-Output":["Data Science for Bioinformatics"],
+    "9.R_Functions_and_Control_Structures":["Data Science for Bioinformatics"],
+    "10.Data_Visualisation_in_R":["Data Science for Bioinformatics"],
+    "11.BLAST_and_MSA_in_Biopython":["Data Science for Bioinformatics"],
+    "12.Unsupervised_Machine_Learning_in_R":["Data Science for Bioinformatics"],
+    "13.Unsupervised_Machine_Learning_in_Python":["Data Science for Bioinformatics"],
+    "14.Supervised_Machine_Learning _in_R":["Data Science for Bioinformatics"],
+    "15.Supervised_Machine_Learning_in_Python":["Data Science for Bioinformatics"],
+    "16.Operations_on_Genomic_Intervals_and_Genome_Arithmetic":["Data Science for Bioinformatics"]
   }
 }
