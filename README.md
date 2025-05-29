@@ -1,3 +1,5 @@
+🗂️ This site contains coursework from my MSc in Bioinformatics (archived for reference).
+
 Square Open Source Portal
 =========================
 
